@@ -1,7 +1,7 @@
 {
   "name": "@uniswap/interface",
   "description": "Uniswap Interface",
-  "homepage": "https://banwang.github.io/swap",
+  "homepage": "https://banwang811.github.io/swap",
   "private": true,
   "devDependencies": {
     "@ethersproject/experimental": "^5.2.0",
